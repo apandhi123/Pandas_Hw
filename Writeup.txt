@@ -1,0 +1,3 @@
+In both datafiles, the female players are way low in numbers. Though this observation is very obvious, we see a huge potential for long term growth. The company should launch a well designed survey among female players and also female non-players to gather their likings, expectations, behavioral patterns, etc, and then figure out how to attract more female players. The company should employ female player bloggers and be active in social media to accomplish this goal.
+
+The company should try to understand if there is a correlation between the most popular items and the most profitable items. This is true atleast in one of the datasets. Company should investigate the product characteristics and other reasons why these items rank high in both categories. 
